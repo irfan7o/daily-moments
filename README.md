@@ -2,6 +2,9 @@
 
 This is my 2nd result of my [Ionic](https://ionicframework.com/) course in Udemy by [Mirko Nasato](https://www.udemy.com/user/mirkonasato)
 
+* Email: test1@example.org
+* Password: test1234
+
 ![Screenshot 2023-12-01 165704](https://github.com/irfan7o/daily-moments/assets/73951075/d4bdc149-bf26-4acb-bf8f-ed58d5843170)
 
 ![Screenshot 2023-12-01 165606](https://github.com/irfan7o/daily-moments/assets/73951075/a893c677-5d53-4bec-9846-a929bd0675db)
